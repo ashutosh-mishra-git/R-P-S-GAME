@@ -13,3 +13,7 @@ In this
  else Points will counts for them
  
  
+# play
+You can paly the game on click this link
+
+https://ashutosh-mishra-git.github.io/R-P-S-GAME/
